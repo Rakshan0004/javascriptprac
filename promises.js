@@ -16,3 +16,5 @@ fetchData().then(
 }).catch(err => {
     console.log("Error: ", err);
 })
+
+
