@@ -1,0 +1,19 @@
+p{
+    color:black;
+    background-color: yellow;
+    font-size: 70;
+}
+
+img{
+    width: 500px; 
+    height: 300px;
+}
+
+div{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+    position:top;
+    margin: 100px;
+
+}
